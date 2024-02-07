@@ -26,7 +26,7 @@ Al crear el bot Obtendremos un Token, Necesitamos conseguir La ID de nuestra Cue
 
 
 ![](https://telegra.ph/file/b53489e1758478691b410.jpg)
-```Ejemplo 2```
+### ```Ejemplo 2```
 * **Ahora podemos enviar el archivo a nuestra víctima con la intención de convencerla de que banea cuentas de WhatsApp. Podemos codificar el archivo para que la víctima no pueda leer su contenido. Una alternativa es subir el archivo a un repositorio de GitHub y enviar solo los comandos para clonar el repositorio. Estas son solo opciones que os doy, podríais implementar otras estrategias.**
 
 ------
